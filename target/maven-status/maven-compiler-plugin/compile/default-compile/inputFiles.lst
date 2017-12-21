@@ -1,0 +1,6 @@
+/home/lin/demo/src/main/java/com/example/domain/Coins.java
+/home/lin/demo/src/main/java/com/example/SpringDataJpaExampleApplication.java
+/home/lin/demo/src/main/java/com/example/service/CoinsService.java
+/home/lin/demo/src/main/java/com/example/service/impl/CoinsServiceImpl.java
+/home/lin/demo/src/main/java/com/example/repository/CoinsRepository.java
+/home/lin/demo/src/main/java/com/example/web/CoinsController.java

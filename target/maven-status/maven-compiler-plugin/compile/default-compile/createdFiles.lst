@@ -1,0 +1,6 @@
+com/example/repository/CoinsRepository.class
+com/example/service/CoinsService.class
+com/example/service/impl/CoinsServiceImpl.class
+com/example/SpringDataJpaExampleApplication.class
+com/example/domain/Coins.class
+com/example/web/CoinsController.class
